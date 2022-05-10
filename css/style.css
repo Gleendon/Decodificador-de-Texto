@@ -178,6 +178,10 @@ footer a{
         margin: 0 auto;
         width: 688px;
     }
+
+    #texto-entrada{
+        width: 688px;
+    }
     
     .secao-saida{
         position: static;
